@@ -12,6 +12,6 @@ Feature: Login_user_correct with Scenario Outline
 
 
 
-
-
     Examples:
+      |email_address  |password|
+      |practicebatch44@gmail.com|123456|
